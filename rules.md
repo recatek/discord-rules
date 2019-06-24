@@ -1,7 +1,9 @@
 0. Be excellent to each other.
 1. You must be 13 or older to participate in this discord.
 2. No sexual, suggestive, exceedingly violent, or otherwise explicit content.
+
        **NSFW or borderline NSFW content will result in an immediate ban.**
+       
 3. Due to moderation limitations, content posted here must be in English.
 4. Content self-promotion is restricted to the [CHANNEL NAME] channel.
 5. Excessive profanity, especially when directed at others, is prohibited.
